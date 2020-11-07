@@ -10,6 +10,6 @@ Here you will be exploring information that will help you identify better invest
 
 This dashboard provides charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
 
-Charts: There are two charts that represents Gross Rent, and Sale Price per SQFT
-Maps: Shos the locations of the house on the map with their prices, and address details.
-Visualization: There are various categories of Parallel display and connections between Data
+* Charts: There are two charts that represents Gross Rent, and Sale Price per SQFT
+* Maps: Shos the locations of the house on the map with their prices, and address details.
+* Visualization: There are various categories of Parallel display and connections between Data
